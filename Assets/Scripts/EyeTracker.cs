@@ -2,7 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 using ViveSR.anipal.Eye;
-
+/// <summary>
+/// Trent Simmons
+/// 
+/// This script will raycast based on the direction of the users gaze
+/// 
+/// Will also update the size of the pupil every frame
+/// 
+/// </summary>
 public class EyeTracker : MonoBehaviour
 {
 
